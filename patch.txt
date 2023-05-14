@@ -1,5 +1,5 @@
--added tag! 
--fixed moon glitch
--made trees climbable
--better hands
--spoopy nighttime
+-fixed game
+
+-new and improved city
+
+-clouds
